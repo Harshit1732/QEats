@@ -27,3 +27,5 @@ QEats is a popular food ordering app that allows users to browse and order their
  2. Used Mockito to enable the development of the relevant MVCS layers independently.
  3. Retrieved a list of restaurants from MongoDB based on a user location.
  4. Skills used :Spring Boot, Spring Data, REST API, Jackson, Mockito, JUnit, MongoDB
+![Qeats4](https://github.com/Harshit1732/QEats/assets/90718298/fe80bfdc-afa8-4ede-ad3d-360337f59067)
+
