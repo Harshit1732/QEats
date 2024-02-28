@@ -17,3 +17,7 @@ QEats is a popular food ordering app that allows users to browse and order their
  ![Qeats2](https://github.com/Harshit1732/QEats/assets/90718298/58946019-9510-4d7a-8cf6-8fe00395683e)
  ![Qeats3](https://github.com/Harshit1732/QEats/assets/90718298/79adf78c-60ef-43fd-833d-c52e3c3cca73)
 
+# Resolve production issues using Scientific Debugging
+ 1. Debug QEats app crashes from backend leveraging log messages and structured debugging techniques.
+ 2. Use IDE features (breakpoints) and assert statements to identify the root cause.
+ 3. Skills used : Scientific Debugging
