@@ -21,3 +21,9 @@ QEats is a popular food ordering app that allows users to browse and order their
  1. Debug QEats app crashes from backend leveraging log messages and structured debugging techniques.
  2. Use IDE features (breakpoints) and assert statements to identify the root cause.
  3. Skills used : Scientific Debugging
+
+# Retrieve restaurant data for a given user location
+ 1. Implemented GET /API/v1/restaurants and the corresponding request handler and response methods.
+ 2. Used Mockito to enable the development of the relevant MVCS layers independently.
+ 3. Retrieved a list of restaurants from MongoDB based on a user location.
+ 4. Skills used :Spring Boot, Spring Data, REST API, Jackson, Mockito, JUnit, MongoDB
