@@ -10,10 +10,8 @@ QEats is a popular food ordering app that allows users to browse and order their
 ![Uploading Qeats.png…]()
 
 # Replicate performance issues and solve them using caching strategies
-
-Scope of Work
     1. Employed JMeter or load testing to expose performance issues.
     2. Identified DB queries contributing to degradation in performance.
     3. Used a Redis cache to alleviate read performance.
-Skills used
-  Redis, JMeter
+    4. Skills used:  Redis, JMeter
+ 
