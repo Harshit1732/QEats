@@ -7,7 +7,8 @@ QEats is a popular food ordering app that allows users to browse and order their
     3.  To give a sense of real-world problems, production issues were investigated using Scientific Debugging methods.
     4.  Along with this, I improved the app performance under large load scenarios as well as included an advanced search feature in the app. 
 
-![Uploading Qeats.png…]()
+![Qeats](https://github.com/Harshit1732/QEats/assets/90718298/92483699-2b2f-44c0-a949-e4abbafffd24)
+
 
 # Replicate performance issues and solve them using caching strategies
     1. Employed JMeter or load testing to expose performance issues.
