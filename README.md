@@ -15,4 +15,5 @@ QEats is a popular food ordering app that allows users to browse and order their
     3. Used a Redis cache to alleviate read performance.
     4. Skills used:  Redis, JMeter
  ![Qeats2](https://github.com/Harshit1732/QEats/assets/90718298/58946019-9510-4d7a-8cf6-8fe00395683e)
+ ![Qeats3](https://github.com/Harshit1732/QEats/assets/90718298/79adf78c-60ef-43fd-833d-c52e3c3cca73)
 
